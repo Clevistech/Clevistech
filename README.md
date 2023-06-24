@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clevistech
 - 👀 I’m Interested in web development
 - 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate more on web development
 - 📫 How to reach me
      ☎ +2348156788602,+2348142403585
 <!---
